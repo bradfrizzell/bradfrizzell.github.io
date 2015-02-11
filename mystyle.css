@@ -6,13 +6,11 @@ h1 {
     text-align: center;
     color : #B25954;
     font-family : "Helvetica";
-    float: center;
     
     }
 h2 {font-weight : normal; 
     color : #B25954;
     font-family : "Helvetica Neue";
-    float: center;
     }
     
 a:link{
@@ -31,6 +29,11 @@ a:hover{
     border-style: solid;
     border-color: #2F597F;
     }
+    
+.bullet-list{
+    list-style-type: disc;
+    font-weight:bold;
+    }
 
 .center{
     text-align:center;
@@ -41,11 +44,15 @@ a:hover{
     margin-right: auto;
     width: 95%;
     }
-    
-.bullet-list{
-    list-style-type: disc;
-    font-weight:bold;
-    }
+
+.img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 10%;
+    width: 10%;
+    }    
 
 .institution{
     font-weight:bold;
