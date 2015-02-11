@@ -1,0 +1,63 @@
+body {
+    font-family: "Helvetica";
+    background : #FAF0FF;}
+h1 {
+    font-weight: normal;
+    text-align: center;
+    color : #B25954;
+    font-family : "Helvetica";
+    float: center;
+    
+    }
+h2 {font-weight : normal; 
+    color : #B25954;
+    font-family : "Helvetica Neue";
+    float: center;
+    }
+    
+a:link{
+        font-size: 150%;
+        /*text-decoration: none;*/
+        color:#2F597F;
+        }
+a:hover{
+        color: #B25954;
+        }
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-style: solid;
+    border-color: #2F597F;
+    }
+
+.center{
+    text-align:center;
+    }
+
+.center-block{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    }
+    
+.bullet-list{
+    list-style-type: disc;
+    font-weight:bold;
+    }
+
+.institution{
+    font-weight:bold;
+    }
+
+.skills{
+    font-weight:bold;
+    }
+
+/*
+Colors to use:
+B25954
+B8BF6D
+*/
+
